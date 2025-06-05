@@ -35,7 +35,7 @@ A Java-based Timetable Generator for universities and colleges with support for 
 │ ├── AddFacultyScreen.java
 │ ├── ManualScheduleScreen.java
 │ └── AutoScheduleScreen.java
-└── Main.java
+
 
 
 
@@ -68,6 +68,8 @@ javac Homescreen.java
 
  Or use the Auto Scheduler to automatically generate a clash-free schedule.
 
+---
+
     💡 Planned Improvements
     Upgrade to Swing or JavaFX
 
@@ -79,11 +81,13 @@ javac Homescreen.java
 
     Integrate with SQLite database
 
+---
+
 🧠 Tech Stack
 Component	Description
 Language	Java
 UI Framework	AWT (Java Abstract Window Toolkit)
 Architecture	Modular OOP (Screens & Models)
-
+---
 🙌 Credits
 This project is created and maintained by Zulkarnain.
