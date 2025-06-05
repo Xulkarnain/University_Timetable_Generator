@@ -45,38 +45,39 @@ A Java-based Timetable Generator for universities and colleges with support for 
 
 ### 1. Clone the Repository
 
-```bash
+
 git clone https://github.com/yourusername/timetable-generator.git
 cd timetable-generator
+
 2. Run the Project
 You can use any Java IDE like IntelliJ IDEA or Eclipse, or run via command line:
 
 
-javac Main.java
-java Main
+javac Homescreen.java
+
 📌 Step-by-Step Usage
-Add Subjects
-Start by entering the subject list categorized by semesters.
+ 1.Add Subjects
+    Start by entering the subject list categorized by semesters.
 
-Add Faculty
-Add faculty members and assign them the subjects they teach along with max lectures per day.
+ 2.Add Faculty
+    Add faculty members and assign them the subjects they teach along with max lectures per day.
 
-Create Timetable
+ 3.Create Timetable
 
-Use Manual Scheduling to assign faculty to timeslots.
+ 4.Use Manual Scheduling to assign faculty to timeslots.
 
-Or use the Auto Scheduler to automatically generate a clash-free schedule.
+ Or use the Auto Scheduler to automatically generate a clash-free schedule.
 
-💡 Planned Improvements
- Upgrade to Swing or JavaFX
+    💡 Planned Improvements
+    Upgrade to Swing or JavaFX
 
- Export timetable to PDF or Excel
+    Export timetable to PDF or Excel
 
- Add student-course registration system
+    Add student-course registration system
 
- Build visual calendar-like interface
+    Build visual calendar-like interface
 
- Integrate with SQLite database
+    Integrate with SQLite database
 
 🧠 Tech Stack
 Component	Description
