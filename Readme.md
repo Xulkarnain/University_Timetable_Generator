@@ -18,9 +18,9 @@ A Java-based Timetable Generator for universities and colleges with support for 
 ---
 
 ## 🗂️ Project Structure
-
-📁 timetable-generator/
-├── 📁 Models/
+```bash
+📁 timetable-generator/n
+├── 📁 Models/n
 │ ├── AutoScheduler.java
 │ ├── Classroom.java
 │ ├── Faculty.java
@@ -37,9 +37,7 @@ A Java-based Timetable Generator for universities and colleges with support for 
 │ └── AutoScheduleScreen.java
 └── Main.java
 
-yaml
-Copy
-Edit
+
 
 ---
 
@@ -53,9 +51,7 @@ cd timetable-generator
 2. Run the Project
 You can use any Java IDE like IntelliJ IDEA or Eclipse, or run via command line:
 
-bash
-Copy
-Edit
+
 javac Main.java
 java Main
 📌 Step-by-Step Usage
